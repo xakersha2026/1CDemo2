@@ -369,6 +369,7 @@
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
   <catalogs>Catalog.Тест2</catalogs>
+  <catalogs>Catalog.Тест</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
